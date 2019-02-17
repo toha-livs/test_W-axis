@@ -1,0 +1,7 @@
+export const ADD_ORDER = 'ADD_ORDER'
+export const REMOVE_ORDER = 'REMOVE_ORDER'
+export const SET_ORDERS = 'SET_ORDERS'
+export const ADD_SHOPPING = 'ADD_SHOPPING'
+export const REMOVE_SHOPPING = 'REMOVE_SHOPPING'
+export const SET_SHOPPINGS = 'SET_SHOPPINGS'
+export const SET_PRODUCTS = 'SET_PRODUCTS'
